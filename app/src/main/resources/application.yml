@@ -1,0 +1,3 @@
+application:
+  federation:
+    configPath: config.ttl

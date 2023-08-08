@@ -1,0 +1,10 @@
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix fedx: <http://rdf4j.org/config/federation#> .
+
+<http://example.com/endpoint/DBpedia> a sd:Service ;
+  fedx:store "SPARQLEndpoint";
+  sd:endpoint "http://dbpedia.org/sparql".
+
+<http://example.com/endpoint/Wikidata> a sd:Service ;
+  fedx:store "SPARQLEndpoint" ;
+  sd:endpoint "https://query.wikidata.org/sparql".
