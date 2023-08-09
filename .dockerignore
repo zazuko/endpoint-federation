@@ -3,3 +3,8 @@ app/build/
 Dockerfile
 .dockerignore
 .gradle/
+node_modules/
+package.json
+yarn.lock
+.github/
+.changeset/

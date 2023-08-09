@@ -57,3 +57,6 @@ gradle-app.setting
 # End of https://www.toptal.com/developers/gitignore/api/kotlin,gradle
 
 app/bin/
+
+
+node_modules/
