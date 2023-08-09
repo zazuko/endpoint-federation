@@ -1,6 +1,6 @@
 {
   "name": "endpoint-federation",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "One endpoint to query multiple SPARQL endpoints",
   "main": "index.js",
   "repository": "git@github.com:zazuko/endpoint-federation.git",
