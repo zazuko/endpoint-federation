@@ -1,5 +1,11 @@
 # endpoint-federation
 
+## 0.0.3
+
+### Patch Changes
+
+- 3915c8e: Only one Repository instance and edit config
+
 ## 0.0.2
 
 ### Patch Changes
