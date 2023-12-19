@@ -1,5 +1,9 @@
 # Endpoint federation
 
+> [!WARNING]
+> This project was a proof of concept and is not intended to be used in production.
+> We recommand to use [GraphDB](https://graphdb.ontotext.com/) instead to experiment with FedX.
+
 This project creates a federated endpoint using [FedX](https://rdf4j.org/documentation/programming/federation/).
 
 That way you can get a single endpoint that is able to query multiple SPARQL endpoints.
